@@ -5,5 +5,6 @@ a = np.array([
     [4, 5, 6]
 ])
 
-print(f"My matrix is:\n {a}")
+print(f"My matrix is:")
+print(f"{a}")
 
