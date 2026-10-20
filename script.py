@@ -7,3 +7,4 @@ a = np.array([
 
 print(a)
 print("My first Git commit!")
+print("Fixed the script!")
